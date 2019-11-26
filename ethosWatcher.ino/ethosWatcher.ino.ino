@@ -21,7 +21,7 @@ const int calltime_ms = 10000;
 
 // network credentials
 char ssid[]     = "WLAN-987745";
-char password[] = "8619417772260054";
+char password[] = "------------------";
 char servername[] = "tombou.ethosdistro.com";
 char wiFiHostname[ ] = "ethoswatcher";
 
